@@ -1,0 +1,2 @@
+export const templateUrl = 'https://us-central1-prashil-template-maker.cloudfunctions.net/template?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZW1wbGF0ZS1tYWtlciIsIm5hbWUiOiJKdWdhbCBTdXRoYXIiLCJpYXQiOjE2NTkzMjc1NTV9.-fdogmK-IQB4xdanYeCvLIWOPNepCEyysFN0XPnLaqI'
+

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: rgb(85, 85, 85);
+  color: rgb(226, 151, 10);
+  min-height: 100vh;
+}
+
+.field{
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: rgb(255, 255, 255);
+  width: 25vw;
+}
+.field:focus {
+  outline: none;
+  background-color: rgb(255, 255, 255);
+}
+
+.error{
+  color: brown;
+}
